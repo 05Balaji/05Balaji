@@ -1,7 +1,7 @@
 
 ## HI 👋Its  me Balaji
 # ✍Artifical Intelligence and Data Science
-- I'm Currently Learning DSA
+- I'm Currently Learning Artificiall Intelligence and Data Science
 - How To Reach me:
 <br/><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <img height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 - Fun Fact : I Know Telegu
